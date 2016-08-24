@@ -1,0 +1,28 @@
+{
+  "name": "charitybra",
+  "version": "1.0.0",
+  "description": "CharityBra.com is a donation supporting enterprise.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnavigato/charitybra.git"
+  },
+  "keywords": [
+    "bra",
+    "node"
+  ],
+  "author": "CJNSR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cnavigato/charitybra/issues"
+  },
+  "homepage": "https://github.com/cnavigato/charitybra#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "serve-favicon": "^2.3.0"
+  }
+}
